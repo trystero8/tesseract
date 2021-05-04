@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trystero8/tesseract/HEAD?filepath=https%3A%2F%2Fgithub.com%2Ftrystero8%2Ftesseract%2Fblob%2Fmaster%2Fpytesseract-example.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trystero8/tesseract/HEAD)
